@@ -1,6 +1,6 @@
 ### This is the current configuration for my Mx Master 3s Mouse, this configure all buttons and adds extra functionality like gesture, using the thumbwheel as volume controller
 
-# mx-master-3s-config
+# mx-master-3s-config - You need to clone the repo
 [logiops-githublink](https://github.com/PixlOne/logiops)
 
 ## Dependencies Needed: 
